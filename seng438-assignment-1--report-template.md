@@ -2,12 +2,12 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group \#:       |   |
-|-----------------|---|
-| Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+| Group \#:       |              |
+|-----------------|--------------|
+| Student Names:  | Nuha Shaikh  |
+|                 |              |
+|                 |              |
+|                 |              |
 
 **Table of Contents**
 
