@@ -305,7 +305,8 @@ bank account(s).
 # FAMILIARIZATION WITH BLACKLOG
 
 1. **Logging in**
-
+    username : LAB1-NHRL
+    password: seng438.dance
    1. Navigate to the following website:
        [https://register.backlog.com/trial/with-new-account/plan/en/12](http://portal.bugheaven.com/#signup)
 
@@ -365,7 +366,7 @@ bank account(s).
 
        ![](media/a73ff025a63cf5f3f979e87635d640d5.tmp)
 
-3. **Creating useful bug reports**
+4. **Creating useful bug reports**
 
     No matter what defect tracking system you are using to report defects,
     there are some elements that product supporters will expect and likely
