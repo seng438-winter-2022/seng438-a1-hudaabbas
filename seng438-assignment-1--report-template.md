@@ -2,7 +2,7 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group \1:       |              |
+| Group 1:       |              |
 |-----------------|--------------|
 | Student Names:  | Rajpreet Gill (30086659)|
 |                 | Nuha Shaikh (30084641)  |
@@ -42,14 +42,14 @@ In terms of the manual functional testing, we all had an understanding that this
 We intend to test the system using a general approach by targeting the main functions specified in the general requirements and looking for non-expected functionality.
 
 The following is a general list of the functions we will look to target:
-All four transactions
-Transfer of money between any two accounts linked to the card
-Withdraw cash from any suitable account linked to the card in multiples of \$20
-Deposit to any account linked to any card
-View any balance inquiries for each account
-The system should tell the user whether their credit card PIN is correct or incorrect
-Be able to abort a transaction in progress by pressing Cancel
-The operator must be able to system startup and shutdown
+* All four transactions
+1. Transfer of money between any two accounts linked to the card
+2. Withdraw cash from any suitable account linked to the card in multiples of \$20
+3. Deposit to any account linked to any card
+4. View any balance inquiries for each account
+* The system should tell the user whether their credit card PIN is correct or incorrect
+* Be able to abort a transaction in progress by pressing Cancel
+* The operator must be able to system startup and shutdown
 
 In general, the approach we are taking is that we will look to try to test most functions a little bit to get a general idea of the entire system. By testing every account type and card combination for all the tasks mentioned above, we hope to catch most bugs by getting a general idea for the majority of the possible functionality. We checked all messages displayed by the ATM for invalid inputs, error messages, receipts, and balance amounts for all functions.
 
