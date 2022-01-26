@@ -75,7 +75,7 @@ During the peer testing that was conducted, one person focused on performing the
 
 # How the pair testing was managed and team work/effort was divided 
 
-Text…
+The pair testing was managed in a holistic manner where communication was a key factor to ensure everyone was updated throughout testing. For exploratory testing, we split into pairs (groups of 2). This involved one person recording bugs while the other person performed the tests. Team work was divided for the manual scripted testing by splitting up the test suite equally amongst all 4 members. For regression testing the effort was divided by reattempting the specific bugs for every defect the team member found using version 1.1.
 
 # Any lessons learned from your teamwork in this lab?
 
